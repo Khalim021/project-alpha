@@ -1,10 +1,18 @@
+import React from 'react'
+
+//  import pages 
+import About from './pages/About'
+import Header from './pages/Header'
+import Navbar from './pages/Navbar'
 
 function App() {
-  return (
-    <div className="App">
-      <p>You are Welcome and please enjoy from this project😊</p>
-    </div>
-  );
+    return (
+        <div>
+            <Navbar />
+            <Header />
+            <About />
+        </div>
+    )
 }
 
-export default App;
+export default App
