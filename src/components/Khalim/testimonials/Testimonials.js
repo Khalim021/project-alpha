@@ -1,8 +1,13 @@
 import React from 'react'
+import './testimonials.css'
 
 const Testimonials = () => {
   return (
-    <div>Testimonials</div>
+    <>
+      <div>
+        <h3 className='testiomonials-title'>Our Testimonials</h3>
+      </div>
+    </>
   )
 }
 
