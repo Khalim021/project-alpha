@@ -1,12 +1,9 @@
-import Testimonials from "./components/Khalim/testimonials/Testimonials";
+import React from 'react'
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <p>You are Welcome and please enjoy from this project😊</p>
-      <Testimonials />
-    </div>
-  );
+    <div>App</div>
+  )
 }
 
-export default App;
+export default App
