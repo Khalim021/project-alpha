@@ -1,11 +1,18 @@
-import React from 'react';
+import React from 'react'
 
-const App = () => {
-  return (
-    <div>
-      Welcome
-    </div>
-  )
+//  import pages 
+import About from './pages/About'
+import Header from './pages/Header'
+import Navbar from './pages/Navbar'
+
+function App() {
+    return (
+        <div>
+            <Navbar />
+            <Header />
+            <About />
+        </div>
+    )
 }
 
 export default App
