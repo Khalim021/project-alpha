@@ -1,10 +1,9 @@
-import React from 'react'
-import Testimonials from './components/Khalim/testimonials/Testimonials'
+import React from 'react';
 
 const App = () => {
   return (
     <div>
-      <Testimonials />
+      Welcome
     </div>
   )
 }
