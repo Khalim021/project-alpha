@@ -2,7 +2,7 @@ import React from 'react'
 
 const AdvTelegram = () => {
   return (
-    <div>AdvTelegram Banner advertisement</div>
+    <div>AdvTelegram</div>
   )
 }
 
