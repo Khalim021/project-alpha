@@ -1,0 +1,29 @@
+.footer-title {
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #F4F5F7;
+}
+
+.copyright-container {
+  background-color: #141B23;
+}
+
+.copyright {
+  height: 24px;
+  left: 11.46%;
+  right: 72.08%;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  bottom: 0%
+}
+
+
+
+

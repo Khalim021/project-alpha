@@ -1,0 +1,69 @@
+.testimonials-section {
+  width: 1440px;
+  height: 555px;
+  left: 0px;
+  top: 0px;
+  background: rgba(242, 247, 255, 0.5);
+  text-align: center;
+}
+
+
+.testimonials-title {
+  width: 383px;
+  height: 64px;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 46px;
+  line-height: 64px;
+  color: #1D2530;
+}
+
+
+.test-card-container h4 {
+  text-align: center;
+  left: 5.93%;
+  right: 5.93%;
+  top: 10.53%;
+  bottom: 80.26%;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  color: #18191F;
+}
+
+.test-card-description {
+  left: 5.93%;
+  right: 5.93%;
+  top: 22.37%;
+  bottom: 46.05%;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #18191F;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
