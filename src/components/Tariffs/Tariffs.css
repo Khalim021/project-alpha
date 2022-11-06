@@ -1,0 +1,335 @@
+.tariffs__header{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 46px;
+    line-height: 64px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #1D2530;
+    margin-top: 100px;
+}
+
+.tariffs__text{
+    margin-top: 16px;
+    text-align: center;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #1D2530;
+    flex-grow: 0;
+}
+
+.tariffs__list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    margin-right: 165px;
+    margin-bottom: 100px;
+    margin-left: 165px;
+}
+
+.tariffs__item{
+    width: 350px;
+    margin: 0;
+    padding: 0;
+    background-color: #FCFEFF;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 6px;
+}
+
+.tariffs__item--heading{
+    background-color: rgba(104, 94, 214, 0.05);
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 48px;
+    text-align: center;
+    color: #685ED6;
+    margin-bottom: 46px;
+}
+
+.tariffs__item--paragraph{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    color: #1D2530;
+    margin-right: 48px;
+    margin-bottom: 32px;
+    margin-left: 47px;
+}
+
+.tariffs__item--parag{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    color: #1D2530;
+    margin-right: 20px;
+    margin-bottom: 32px;
+    margin-left: 19px;
+}
+
+.tariffs__item--paragr{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 40px;
+    text-align: center;
+    color: #1D2530;
+    margin-right: 35px;
+    margin-bottom: 32px;
+    margin-left: 35px;
+}
+
+.tariffs__item--text{
+    font-family: 'Gilroy';
+    font-weight: 500;
+    font-style: normal;
+    line-height: 30px;
+    font-size: 20px;
+    text-align: center;
+    color: #1D2530;
+    margin-bottom: 46px;
+}
+
+.tariffs__item--button{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #FFFFFF;
+    background-color: #685ED6;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.07);
+    border-radius: 6px;
+    padding: 12px 66px;
+}
+
+.telegramchat__heading{
+    margin-top: 100px;
+    margin-bottom: 56px;
+    text-align: center;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 46px;
+    line-height: 64px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #1D2530;
+}
+
+.circle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1120px;
+    margin-right: 165px;
+    margin-left: 165px;
+}
+
+.circle__1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    margin-right: 202px;
+    padding: 0;
+}
+
+.circle__1--img, 
+.circle__2--img, 
+.circle__3--img, 
+.circle__4--img, 
+.circle__5--img,
+.circle__6--img,
+.circle__7--img{
+    position: relative;
+}
+
+.vector17{
+    position: absolute;
+    top: -75px;
+    left: -27.5px;
+
+}
+
+.tg1{
+    position: absolute;
+    top: -62px;
+    left: 105px;
+}
+
+.vector18{
+    position: absolute;
+    top: -12px;
+    left: 185px;
+
+}
+
+.vector19{
+    position: absolute;
+    top: -245px;
+    left: 190px;
+}
+
+.tg2{
+    position: absolute;
+    top: -250px;
+    left: 295px;
+}
+
+.vector20{
+    position: absolute;
+    top: -200px;
+    left: 400px;
+}
+
+
+.span__circle--1{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 17px;
+    padding: 20px 28px;
+    width: 72px;
+    height: 72px;
+    text-align: center;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    color: #685ED6;
+    background-color: #F1E4FF;
+    border-radius: 100px;
+}
+
+.circle__2{
+    margin: 0;
+    padding: 0;
+    margin-top: 135px;
+    margin-right: 155px;
+    margin-left: 20px;
+}
+
+.span__circle--2{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 17px;
+    padding: 20px 28px;
+    width: 72px;
+    height: 72px;
+    text-align: center;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    color: #685ED6;
+    background-color: #F1E4FF;
+    border-radius: 100px;
+}
+
+.circle__3{
+    margin-top: -15px;
+}
+
+
+.span__circle--3{
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 17px;
+    padding: 20px 28px;
+    width: 72px;
+    height: 72px;
+    text-align: center;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    color: #685ED6;
+    background-color: #F1E4FF;
+    border-radius: 100px;
+}
+
+.tg__bot{
+    margin-bottom: 4px;
+    font-family: 'Gilroy';
+    font-weight: 700;
+    font-style: normal;
+    line-height: 28px;
+    font-size: 18px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    text-align: center;
+    color: #1D2530;
+}
+
+.tg__text1{
+    width: 214px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #1D2530;
+    flex-grow: 0;
+}
+
+.tg__text2{
+    width: 269px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    text-align: center;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #1D2530;
+}
+
+.tg__text3{
+    width: 255px;
+    font-style: normal;
+    font-family: 'Gilroy';
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 26px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #1D2530;
+}
+
+.iphone__mobiles{
+    width: 1140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    position: relative;
+}
+
+
+.iphone__x1{
+    position: absolute;
+    top: 50px;
+    left: 444px;
+    margin-bottom: 142px;
+}

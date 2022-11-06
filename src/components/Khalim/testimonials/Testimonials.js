@@ -10,7 +10,7 @@ import './testimonials.css'
 const Testimonials = () => {
   return (
     <section className='container md:px-10 px-7'>
-      <h3 className='text-3xl lg:text-5xl font-extrabold font-girloybold text-center'>Отзывы клиентов</h3>
+      <h3 className='feedback__title text-3xl lg:text-5xl font-extrabold font-girloybold text-center'>Отзывы клиентов</h3>
       <Swiper className='mx-auto pt-20 pb-20'
       slidesPerView={1} 
       loop={true} 
